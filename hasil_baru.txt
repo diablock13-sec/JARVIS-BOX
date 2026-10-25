@@ -1,0 +1,38 @@
+imgsz = 640
+Skor tertinggi per foto (P = ada api/asap, N = negatif):
+P  0.78  landon-parenteau-YEsxGmZ4wLU-unsplash.jpg
+P  0.64  malachi-brooks--HVh7BRp3ls-unsplash.jpg
+P  0.44  malachi-brooks-44Kg_VToFzU-unsplash.jpg
+P  0.41  michael-held-Of-NXuECJbE-unsplash.jpg
+P  0.38  egor-vikhrev--E6jqIGzgOY-unsplash.jpg
+N  0.33  chris-leboutillier-be8mnFXzBgo-unsplash.jpg
+P  0.25  malachi-brooks-YxyYrYXmnbs-unsplash.jpg
+P  0.24  emma-renly-BTw0JsDzlWE-unsplash.jpg
+P  0.23  emma-renly-TGGaNT6piGc-unsplash.jpg
+P  0.22  matt-palmer-kbTp7dBzHyY-unsplash.jpg
+P  0.19  emma-renly-fe4j0IPQ28w-unsplash.jpg
+N  0.15  dave-lz-Y14TiAcH0gM-unsplash.jpg
+P  0.13  marc-obiols-wRD-_t3Elos-unsplash.jpg
+P  0.12  karsten-winegeart-4FjjmIdV7fE-unsplash.jpg
+P  0.12  erik-morales-bvtfI41Hwj4-unsplash.jpg
+N  0.08  sean-thoman--uZiKtZDuEs-unsplash.jpg
+N  0.08  dominik-chelstowski-0r7DdDZ54So-unsplash.jpg
+P  0.07  matt-howard-eAKDzK4lo4o-unsplash.jpg
+N  0.00  andreas-haslinger-T5yPgwg2P0o-unsplash.jpg
+N  0.00  dan-cutler-7DGebO0bBxY-unsplash.jpg
+N  0.00  everett-mcintire-OmREE_c6iFs-unsplash.jpg
+N  0.00  jonny-gios-EgI1kT9MOro-unsplash.jpg
+N  0.00  patrick-hendry--L_my5OJ1KE-unsplash.jpg
+N  0.00  steve-marquez-qH3xmgRBjHE-unsplash.jpg
+N  0.00  steven-cordes-6lJbq0-7zAI-unsplash.jpg
+N  0.00  tianhao-zhang-ts6xr2OSuQM-unsplash.jpg
+N  0.00  timo-struker-y5jIq5vPiKM-unsplash.jpg
+
+thr   TP  FN  FP  TN  recall  specificity
+0.10  13   1   2  11   0.93    0.85
+0.20   9   5   1  12   0.64    0.92
+0.30   5   9   1  12   0.36    0.92
+0.40   4  10   0  13   0.29    1.00
+0.50   2  12   0  13   0.14    1.00
+0.60   2  12   0  13   0.14    1.00
+0.70   1  13   0  13   0.07    1.00

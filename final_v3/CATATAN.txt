@@ -1,0 +1,6 @@
+Model final sementara: best_v3.pt (YOLO11n, dilatih di Colab, 50 epoch, imgsz 640)
+Data latih: dataset_v3 = dataset Roboflow + 124 negatif internet (60 + 64 foto, disalin 3x di train)
+Pengaturan deteksi: imgsz=640, ambang kerja 0.15 sampai 0.20
+Metrik validasi (dataset_v3, val): P 0.79, R 0.70, mAP50 0.77
+Set tes: foto_tes (27), foto_tes2 (20 api, 14 bukan), foto_tes3 (24 api, 17 bukan, 10 abu-abu tidak dihitung)
+Batasan: api malam dengan pendar oranye sering terlewat (caleb-cook, michael-held, matt-howard); belum diuji pada foto ESP32-CAM

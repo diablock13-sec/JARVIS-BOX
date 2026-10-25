@@ -1,0 +1,36 @@
+
+########## best_v2.pt  (api=24, bukan_api=17, abu_abu=10)
+thr   recall  FP  specificity  abu_abu_terdeteksi
+0.10  0.92     5  0.71         7/10
+0.15  0.83     3  0.82         6/10
+0.20  0.75     2  0.88         6/10
+0.30  0.62     2  0.88         6/10
+0.40  0.50     0  1.00         5/10
+0.50  0.42     0  1.00         4/10
+
+########## best_v3.pt  (api=24, bukan_api=17, abu_abu=10)
+thr   recall  FP  specificity  abu_abu_terdeteksi
+0.10  0.96     1  0.94         6/10
+0.15  0.92     1  0.94         5/10
+0.20  0.83     1  0.94         5/10
+0.30  0.62     0  1.00         5/10
+0.40  0.42     0  1.00         4/10
+0.50  0.38     0  1.00         3/10
+
+===== skor per foto: api (v2 -> v3), diurutkan dari skor v3 terendah
+  0.00 -> 0.00  caleb-cook-syuox8fipX4-unsplash.jpg
+  0.28 -> 0.12  jeromey-balderrama-UgONGONhhls-unsplash.jpg
+  0.15 -> 0.16  tom-gainor-dFWVjHDSvbs-unsplash.jpg
+  0.33 -> 0.19  mike-newbry-hUgNAfO5I4Y-unsplash.jpg
+  0.30 -> 0.21  clasiqh-iIKXmV6yqhA-unsplash.jpg
+  0.14 -> 0.22  dirk-erasmus-N04j8AfodwU-unsplash.jpg
+  0.33 -> 0.26  ro-kazui-HQ6XdhGF5hc-unsplash.jpg
+  0.00 -> 0.27  emma-renly-Fi_tOJfhhyw-unsplash.jpg
+  0.17 -> 0.28  ross-stone-KWYTn9_QKRE-unsplash.jpg
+  0.17 -> 0.31  emma-renly-mQqf0ycREj8-unsplash.jpg
+  0.25 -> 0.40  malachi-brooks-2_KDuz00yUQ-unsplash.jpg
+
+===== skor per foto: bukan api yang salah terdeteksi (v2 -> v3, salah satu >= 0.15)
+  0.30 -> 0.00  diego-ph-tIL1v1jSoaY-unsplash.jpg
+  0.31 -> 0.00  diego-ph-vTitvl4O2kE-unsplash.jpg
+  0.16 -> 0.26  sam-dSHUhJ-ksMg-unsplash.jpg

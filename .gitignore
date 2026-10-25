@@ -1,0 +1,41 @@
+# Abaikan semua, lalu izinkan hanya yang dipilih
+*
+!*/
+!.gitignore
+!README.md
+!LICENSE
+!requirements.txt
+!*.py
+!*.sh
+!*.yaml
+!*.txt
+!*.csv
+!*.md
+!*.ino
+!secrets.h.example
+
+# Kecualikan folder ini walau isinya cocok dengan daftar di atas
+venv/
+runs/
+cadangan_pi/
+dataset/
+dataset_*/
+foto_*/
+negatif/
+sumber_layar/
+pra_label_cek/
+potong/
+periksa/
+periksa2/
+pad_foto/
+cek/
+cek_lewat/
+bench_foto/
+hasil_ncnn/
+best_v3_ncnn_model/
+best_v3_ncnn_640sq/
+cam/jarvis_cam/
+
+# README versi lama (bisa memuat sandi)
+README_JARVIS_*.md
+cam/jarvis_cam_siap/

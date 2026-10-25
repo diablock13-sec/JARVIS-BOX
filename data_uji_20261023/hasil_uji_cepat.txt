@@ -1,0 +1,14 @@
+== kontrol_60cm | 2026-10-23T15:40:51 sampai 2026-10-23T15:43:21 ==
+aman=50  
+ALARM pertama: tidak ada
+== kontrol_100cm | 2026-10-23T15:44:45 sampai 2026-10-23T15:46:50 ==
+aman=42  
+ALARM pertama: tidak ada
+== daun100_1 | 2026-10-23T15:51:44 sampai 2026-10-23T15:53:26 ==
+aman=16  deteksi=16  ALARM=1  
+ALARM pertama: 2026-10-23T15:52:04
+Waktu ke ALARM: 20 detik
+== daun60_1 | 2026-10-23T16:05:42 sampai 2026-10-23T16:07:03 ==
+aman=21  deteksi=5  ALARM=1  
+ALARM pertama: 2026-10-23T16:05:49
+Waktu ke ALARM: 7 detik

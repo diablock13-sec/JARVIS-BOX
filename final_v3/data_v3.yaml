@@ -1,0 +1,7 @@
+path: /home/occultus/JARVIS-BOX/dataset_v3
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['Fire', 'Smoke']
