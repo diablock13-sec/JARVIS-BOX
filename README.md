@@ -26,3 +26,5 @@ Tidak termasuk: dataset, foto, berkas model (.pt), dan sandi.
 
 Dataset awal: Roboflow "fire-smoke-detection-yolov11" versi 2 (CC BY 4.0).
 Foto negatif dan foto kamera tambahan dibuat sendiri dan tidak dibagikan.
+
+saran untuk penelitian selanjutnya pakai repo yang JARVIS-KARHUTLA
